@@ -1,0 +1,138 @@
+{
+    "sae" :
+    [
+        {
+            "nom" : "Audit communication numérique",
+            "number" : "101",
+            "description" : "Analyser un site web ou la présence en ligne d’une marque ou d’une organisation et établir différents rapports d’audit",
+            "contenu_court" : "Pour cette SAÉ, nous avons fait une analyse marketing d'un site, ainsi qu'un éco-audit, une analyse graphique ainsi qu'un audit effectué en langue anglaise.",
+            "contenu" : "Pour cette SAÉ, nous avons effectué une analyse marketing d'un site internet, celui de <a href = 'https://pedalerond.com'>pedalerond.com</a>. L'analyse ainsi que ses annexes se trouvent en dessous. \nNous devions aussi produire un éco-audit de deux sites aux choix. J'ai choisi de parler du site personnel de <a href = 'https://www.leonekmi.fr'>Leon Lozahic</a>, ainsi que celui de la plateforme de vidéo courte <a href = 'https://www.tiktok.com'>Tik Tok</a>. L'analyse se trouve aussi juste en dessous. \n",
+            "nom_image" : "sae101.jpg",
+            "liens" : 
+            [
+                {
+                    "nom" : "Analyse stratégique",
+					"lien" : "livrables/SAE101.docx"
+                },
+                {
+                    "nom" : "Annexes",
+					"lien" : "livrables/annexes.zip"
+                }
+
+            ],
+            "ac" : ["1101","1102","1103","1104","1105"],
+            "ressources" : ["101","103","104","105","109","116","118"],
+            "competence" : "Comprendre"
+        },
+        {
+            "nom" : "Recommandation de communication numérique",
+            "number" : "102",
+            "description" : "Construire une recommandation de communication pour la sortie ou le repositionnement d'un produit ou d’un service.",
+            "contenu_court" : "Avec mes camarades Leon Lozahic, Zina Boufalaas et Guillaume Metz, nous avons inventé la stratégie marketing d'une marque de boisson énergétique.",
+            "contenu" : "Avec mes camarades Leon Lozahic, Zina Boufalaas et Guillaume Metz, nous avons inventé la stratégie marketing d'une marque de boisson énergétique appelée Naturenergy. Nous avons donc du établir ",
+            "nom_image" : "sae102.jpg",
+            "liens" : 
+            [
+                {
+                    "nom" : "Annexes",
+					"lien" : "Annexes2.zip"
+                }
+            ],
+            "ac" : ["2103","2104","2105","2106"],
+            "ressources" : ["101","102","105","106"],
+            "competence" : "Concevoir"
+        },
+        {
+            "nom" : "Design graphique",
+            "number" : "103",
+            "description" : "Créer les éléments graphiques et visuels pour une campagne de communication (un événement, la sortie d’un produit, le positionnement d’une marque…) et justifier ses choix esthétiques.",
+            "contenu_court" : "Nous avons dû produire la communication autour d'un meuble imaginé en Culture Artistique précedemment, en produisant donc un modèle 3D de l'objet, des croquis d'affiche ainsi qu'une affiche sur Photoshop avec l'objet en 3D et une bannière sur Illustrator.",
+            "contenu" : "Nous avons dû produire la communication autour d'un meuble imaginé en Culture Artistique précedemment, en produisant donc un modèle 3D de l'objet, des croquis d'affiche ainsi qu'une affiche sur Photoshop avec l'objet en 3D et une bannière sur Illustrator. Pour mon cas, il s'agit d'un bureau dont la hauteur est extensible auquel j'ai donné un peu de couleur.",
+            "nom_image" : "sae103.png",
+            "liens" : 
+            [
+                {
+                    "nom" : "L'objet en 3D au format 3DSMax",
+					"lien" : "livrables/table.max"
+                },
+                {
+                    "nom" : "L'affiche",
+                    "lien" : "livrables/affiche.jpg"
+                },
+                {
+                    "nom" : "La bannière",
+                    "lien" : "livrables/bannière.png"
+                }
+            ],
+            "ac" : ["3102","3103","3106"],
+            "ressources" : ["108","109","116"],
+            "competence" : "Exprimer"
+        },
+        {
+            "nom" : "Production audio et vidéo",
+            "number" : "104",
+            "description" : "Concevoir et produire un contenu audiovisuel dans une perspective de vulgarisation ou d’argumentation",
+            "contenu_court" : "Avec mes camarades Leon Lozahic, Zina Boufalaas et Guillaume Metz, nous avons fait une vidéo en anglais pour parler de deux films.",
+            "contenu" : "Avec mes camarades Leon Lozahic, Zina Boufalaas et Guillaume Metz, nous avons fait une vidéo en anglais pour parler de deux films d'horreur japonais, Noroi et Ring. Zina et moi nous sommes occupés principalement de l'écriture, iel sur Noroi et moi sur Ring, puis de les présenter devant la caméra, tandis que Leon ainsi que Guillaume se sont plutôt occupé de la partie technique dont le montage. J'ai composé le jingle d'intro.",
+            "nom_image" : "sae104.jpg",
+            "liens" : 
+            [
+                {
+                    "nom" : "La vidéo\t",
+					"lien" : "http://thibaultdg.fr/etude/videos/ShaftMovies_1.mp4"
+                },
+                {
+                    "nom" : "Le script\t",
+                    "lien" : "livrables/script.pdf"
+                },
+                {
+                    "nom" : "Le jingle",
+                    "lien" : "livrables/jingle.wav"
+                }
+            ],
+            "ac" : ["3101","3103","3104","3106"],
+            "ressources" : ["101","106","107","108","110","116"],
+            "competence" : "Exprimer"
+        },
+        {
+            "nom" : "Produire un site web",
+            "number" : "105",
+            "description" : "Produire un site Web contenant à la fois des pages statiques et des pages générées à partir de jeux de données structurées, respectant les normes du W3C et les recommandations du WCAG.",
+            "contenu_court" : "Le but de cette SAÉ était de créer un site Web.",
+            "contenu" : "Le site sur lequel vous êtes actuellement. Il répertorie toutes les SAÉ. C'est un portfolio montrant les compétences que je devrais avoir acquis lors de ce premier semestre.",
+            "nom_image" : "sae105.png",
+            "liens" : 
+            [
+                {
+                    "nom" : "Le site",
+                    "lien" : "index.html"
+                }
+            ],
+            "ac" : ["4101","4102","4103","4104"],
+            "ressources" : ["112","113","115"],
+            "competence" : "Développer"
+        },
+        {
+            "nom" : "Gestion de projet pour une recommandation de communication numérique",
+            "number" : "106",
+            "description" : "Mettre en place la gestion de projet pour proposer une recommandation de communication numérique.",
+            "contenu_court" : "Pour cette SAÉ, nous avons du faire produire une facture ainsi qu'une arborescence d'un projet.",
+            "contenu" : "A patrir de la <a href = 'sae.html?sae=103'>SAÉ103</a>, nous avons du produire une facture correspondante ainsi que l'arborescence du projet. Les deux documents se trouvent ci-dessous.",
+            "nom_image" : "sae106.png",
+            "liens" : 
+            [
+                {
+                    "nom" : "La facture\t",
+					"lien" : "livrables/facture.xlsx"
+                },
+                {
+                    "nom" : "L'arborescence",
+                    "lien" : "livrables/arborescence.zip"
+                }
+            ],
+            "ac" : ["5101","5102","5103"],
+            "ressources" : ["117"],
+            "competence" : "Entreprendre"
+        }
+    ]
+}

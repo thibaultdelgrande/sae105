@@ -1,0 +1,167 @@
+{
+    "ac" :
+    [
+        {
+            "numero" : 1101,
+            "intitule" : "Appréhender un contexte économique, sociologique, culturel, juridique, technologique, communicationnel et médiatique",
+            "valider" : true
+        },
+        {
+            "numero" : 1102,
+            "intitule" : "Évaluer un site web, un produit multimédia ou un dispositif interactif existant en s’appuyant sur des guides de bonnes pratiques",
+            "valider" : true
+        },
+        {
+            "numero" : 1103,
+            "intitule" : "Extraire et interpréter des indicateurs quantitatifs (métriques) et statistiques pour évaluer l’efficacité d’un service ou d’un site Web",
+            "valider" : true
+        },
+        {
+            "numero" : 1104,
+            "intitule" : "Interpréter les éléments sémiotiques (langage, ton de voix, logotype, typographies, couleurs, visuels...)",
+            "valider" : false
+        },
+        {
+            "numero" : 1105,
+            "intitule" : "Identifier les cibles (critères socio-économiques, démographiques, géographiques, culturels...)",
+            "valider" : false
+        },
+        {
+            "numero" : 1106,
+            "intitule" : "Réaliser des entretiens utilisateurs (sélection de la cible, écriture du guide d’entretien, organisation)",
+            "valider" : false
+        },
+        {
+            "numero" : 1107,
+            "intitule" : "Bâtir le modèle des attentes utilisateurs",
+            "valider" : false
+        },
+        {
+            "numero" : 2101,
+            "intitule" : "Concevoir un produit ou un service en termes d’usage et de fonctionnalité",
+            "valider" : true
+        },
+        {
+            "numero" : 2102,
+            "intitule" : "Construire la proposition de valeur d’un produit ou d’un service",
+            "valider" : true
+        },
+        {
+            "numero" : 2103,
+            "intitule" : "Proposer une recommandation marketing (cibles, objectifs, points de contact)",
+            "valider" : true
+        },
+        {
+            "numero" : 2104,
+            "intitule" : "Mettre au point une stratégie de communication en adaptant le message aux objectifs",
+            "valider" : true
+        },
+        {
+            "numero" : 2105,
+            "intitule" : "Rédiger une charte éditoriale pour un site web, un blog, un réseau social (préconisation rédactionnelle, référencement naturel)",
+            "valider" : false
+        },
+        {
+            "numero" : 2106,
+            "intitule" : "Communiquer sur les réseaux sociaux (ligne éditoriale et calendrier de publication) ",
+            "valider" : false
+        },
+        {
+            "numero" : 3101,
+            "intitule" : "Produire un écrit communicationnel dans un style juste et pertinent, en phase avec la stratégie",
+            "valider" : true
+        },
+        {
+            "numero" : 3102,
+            "intitule" : "Produire des pistes graphiques et des planches d’inspiration ",
+            "valider" : true
+        },
+        {
+            "numero" : 3103,
+            "intitule" : "Créer, composer et retoucher des visuels",
+            "valider" : true
+        },
+        {
+            "numero" : 3104,
+            "intitule" : "Tourner et monter une vidéo (scénario, captation image et son...)",
+            "valider" : true
+        },
+        {
+            "numero" : 3105,
+            "intitule" : "Designer une interface web (wireframes, UI)",
+            "valider" : true
+        },
+        {
+            "numero" : 3106,
+            "intitule" : "Optimiser les médias en fonction de leurs usages et supports de diffusion",
+            "valider" : true
+        },
+        
+        {
+            "numero" : 4101,
+            "intitule" : "Exploiter de manière autonome un environnement de développement efficace et productif ",
+            "valider" : true
+        },
+        {
+            "numero" : 4102,
+            "intitule" : "Produire des pages Web statiques et fluides utilisant un balisage sémantique efficace",
+            "valider" : true
+        },
+        {
+            "numero" : 4103,
+            "intitule" : "Générer des pages Web ou vues à partir de données structurées incluant des interactions simples",
+            "valider" : true
+        },
+        {
+            "numero" : 4104,
+            "intitule" : "Mettre en ligne une application Web en utilisant une solution d’hébergement standard ",
+            "valider" : true
+        },
+        {
+            "numero" : 4105,
+            "intitule" : "Modéliser les données et les traitements d’une application Web",
+            "valider" : true
+        },
+        {
+            "numero" : 4106,
+            "intitule" : "Utiliser et adapter un modèle d’accès aux données",
+            "valider" : true
+        },
+        {
+            "numero" : 4107,
+            "intitule" : "Déployer et personnaliser une application Web en utilisant un CMS ou un framework MVC",
+            "valider" : false
+        },
+        {
+            "numero" : 5101,
+            "intitule" : "Gérer un projet avec une méthode classique",
+            "valider" : true
+        },
+        {
+            "numero" : 5102,
+            "intitule" : "Budgétiser un projet et suivre sa rentabilité",
+            "valider" : false
+        },
+        {
+            "numero" : 5103,
+            "intitule" : "Faire un appel d’offre (cahier des charges, brief, analyse des réponses, choix du prestataire, contractualisation) ",
+            "valider" : false
+        },
+        {
+            "numero" : 5104,
+            "intitule" : "Découvrir les écosystèmes d’innovation numérique (fab labs, living labs, tiers-lieux, incubateurs...) ",
+            "valider" : false
+        },
+        {
+            "numero" : 5105,
+            "intitule" : "Analyser un produit ou un service innovant en identifiant les propositions de valeurs et en évaluant les solutions proposées",
+            "valider" : true
+        },
+        {
+            "numero" : 5106,
+            "intitule" : "Construire une présence en ligne professionnelle (personal branding)",
+            "valider" : false
+        }
+
+    ]
+}

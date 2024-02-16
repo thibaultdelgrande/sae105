@@ -1,0 +1,90 @@
+{
+    "S1" :
+    [
+        {
+            "numero" : 101,
+            "nom" : "Anglais",
+            "professeurs" : "Oriane Vetter" 
+        },
+        {
+            "numero" : 102,
+            "nom" : "Allemand",
+            "professeurs" : "Céline Weck" 
+        },
+        {
+            "numero" : 103,
+            "nom" : "Ergonomie et accessibilité",
+            "professeurs" : "Sandro Matera" 
+        },
+        {
+            "numero" : 104,
+            "nom" : "Culture numérique",
+            "professeurs" : "Aïda Miled" 
+        },
+        {
+            "numero" : 105,
+            "nom" : "Stratégie de communication",
+            "professeurs" : "Malik Ferhati" 
+        },
+        {
+            "numero" : 106,
+            "nom" : "Expression, communcation et réthorique",
+            "professeurs" : "Annie Schellenbaum" 
+        },
+        {
+            "numero" : 107,
+            "nom" : "Écriture multimédia et narration",
+            "professeurs" : "Jonathan Herbrecht" 
+        },
+        {
+            "numero" : 108,
+            "nom" : "Production graphique",
+            "professeurs" : "Michel Grevillot et Jean-Christophe Dreyer" 
+        },
+        {
+            "numero" : 109,
+            "nom" : "Culture artistique",
+            "professeurs" : "Elisabeth Dusfrene" 
+        },
+        {
+            "numero" : 110,
+            "nom" : "Production audio et vidéo",
+            "professeurs" : "Jonathan Herbrecht" 
+        },
+        {
+            "numero" : 112,
+            "nom" : "Intégration",
+            "professeurs" : "Sébastien Lehmann" 
+        },
+        {
+            "numero" : 113,
+            "nom" : "Développement Web",
+            "professeurs" : "Denis Graef et Béatrice Amerein-Soltner" 
+        },
+        {
+            "numero" : 115,
+            "nom" : "Hébergement",
+            "professeurs" : "Denis Graef et Richard Marsot" 
+        },
+        {
+            "numero" : 116,
+            "nom" : "Représentation et traitement de l'information",
+            "professeurs" : "Jérôme Duval-Weigel et Aïda Miled" 
+        },
+        {
+            "numero" : 117,
+            "nom" : "Gestion de projet",
+            "professeurs" : "Stéphan Boscato et Michel Grevillot" 
+        },
+        {
+            "numero" : 118,
+            "nom" : "Économie et droit du numérique",
+            "professeurs" : "Malik Ferhati" 
+        },
+        {
+            "numero" : 119,
+            "nom" : "PPP",
+            "professeurs" : "Béatrice Amerein-Soltner" 
+        }
+    ]
+}
